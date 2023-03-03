@@ -1,0 +1,33 @@
+h1 {
+    color: purple;
+    border: 8px dashed orange;
+
+}
+
+h4 {
+    color: aliceblue;
+}
+
+li {
+    color: green;
+}
+
+body {
+    background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Homepage_Desktop_5ebdeb0c6c.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.yellow-text {
+    color: yellow;
+
+}
+
+.big-text {
+    font-size: 40px;
+}
+
+#europa{
+    color:blue;
+    font-size: 30px;
+}
